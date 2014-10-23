@@ -1,0 +1,9 @@
+﻿Sample project to run a small test package to "test" Google and demo: Selenium, C# PhantomJS and the various WebDrivers
+
+Create a new test project in C#
+
+Add the following libraries: 
+
+- install-package phantomjs.exe
+- install-package Selenium.WebDriver
+- install-package nunit
